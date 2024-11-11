@@ -3,12 +3,6 @@
 ## Overview
 This project explores sentiment analysis, a key aspect of natural language processing (NLP), aimed at determining the polarity of text data—whether positive, neutral, or negative. Given the surge in digital content across social media, news, and e-commerce platforms, sentiment analysis has become crucial for businesses and organizations to gauge public opinion on products, services, or events. Our approach leverages both traditional machine learning algorithms and advanced deep learning models to automate sentiment analysis, focusing on Twitter data for its diverse and vast user-generated content.
 
-### Team Members
-- Pranit Sehgal - *School of Computing & Augmented Intelligence, Arizona State University, Tempe, United States* - pvsehgal@asu.edu
-- Bharath Kumar Bandaru - *School of Computing & Augmented Intelligence, Arizona State University, Tempe, United States* - bbandaru@asu.edu
-- Karthik Nerella - *School of Computing & Augmented Intelligence, Arizona State University, Tempe, United States* - knerell2@asu.edu
-- Hari Chandana Guddeti - *School of Computing & Augmented Intelligence, Arizona State University, Tempe, United States* - hguddeti@asu.edu
-
 
 ## Problem Statement
 Sentiment analysis identifies and categorizes opinions expressed in text data to understand customer sentiments towards products, services, or topics. This project focuses on analyzing Twitter data due to its rich, diverse content and real-time nature, contrasting with the often manipulated and biased nature of Amazon reviews.
